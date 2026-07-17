@@ -1,5 +1,5 @@
 # IT-ServiceDesk-Home-Lab
-A portfolio documenting 20+ simulated IT service desk tickets completed using ServiceDesk Simulator.
+A portfolio documenting 10+ simulated IT service desk tickets completed using ServiceDesk Simulator.
 
 ## Overview
 
