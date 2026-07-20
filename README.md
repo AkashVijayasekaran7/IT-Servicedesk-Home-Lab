@@ -5,7 +5,7 @@ A portfolio documenting 10+ simulated IT service desk tickets completed using Se
 
 This repository documents my hands-on IT Service Desk practice using ServiceDesk Simulator.
 
-I have completed 20+ simulated Tier 1 support tickets covering Windows troubleshooting, networking, user account management, software issues, and incident resolution.
+I have completed 10+ simulated Tier 1 support tickets covering Windows troubleshooting, networking, user account management, software issues, and incident resolution.
 
 The purpose of this repository is to demonstrate my troubleshooting process, technical documentation skills, and understanding of service desk workflows.
 
